@@ -1,9 +1,9 @@
 <h1 align="center">
-    👋 Hello and welcome! I'm Hector  - 📍 Located: Toronto, CA 🇨🇦 |
+    Hello and welcome! I'm Hector 👋 
 </h1>
 
 <h3 align="center">
-    :computer: Computer Engineer and Full stack developer -  ⚡ Triathlete |
+    Computer Engineer and Full stack developer -  ⚡ Triathlete |
 </h3>
 
 😄 I am motivated software developer and computer engineer with 2 years of experience in full stack development, and  15+ years of experience in other roles as IT Manager, infrastructure project coordinator. Also, a developer in early 2005-2010 stacks like .net+sql server+crystal reports.
@@ -22,5 +22,6 @@
 * DevOps tools and deploy: AWS, Netlify, Heroku, Hyper-V and VMWARE.
 
 
-📫 How to reach me: mailto:hapalacios@gmail.com
-:link: [Website](https://hectorpalacios.ca)
+## 📫 How to reach me: mailto:hapalacios@gmail.com
+## :link: [Website](https://hectorpalacios.ca)
+## 📍 Located: Toronto, CA 🇨🇦 
