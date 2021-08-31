@@ -15,7 +15,7 @@
 
 ## 💻 Tech Stack
 * Language: JavaScript/TypeScript
-* Front End: React Js, HTML, CSS, Material UI, Boostrap.
+* Front End: React Js, HTML, CSS, Material UI, Bootstrap.
 * Back End: Express/Node.js/MongoDB, APIs and SQL databases.
 
 * Testing: Jest and Selenium.
