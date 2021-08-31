@@ -22,6 +22,6 @@
 * DevOps tools and deploy: AWS, Netlify, Heroku, Hyper-V and VMWARE.
 
 
-## 📫 How to reach me: mailto:hapalacios@gmail.com
-## :link: [Website](https://hectorpalacios.ca)
-## 📍 Located: Toronto, CA 🇨🇦 
+### 📫 How to reach me: hapalacios@gmail.com
+### :link: [Website](https://hectorpalacios.ca)
+### 📍 Located: Toronto, CA 🇨🇦 
