@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">
+    👋 Hello and welcome! I'm Hector  - 📍 Located: Toronto, CA 🇨🇦 |
+</h1>
 
-<!--
-**hapalacios/hapalacios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+    :computer: Computer Engineer and Full stack developer -  ⚡ Triathlete |
+</h3>
 
-Here are some ideas to get you started:
+😄 I am motivated software developer and computer engineer with 2 years of experience in full stack development, and  15+ years of experience in other roles as IT Manager, infrastructure project coordinator. Also, a developer in early 2005-2010 stacks like .net+sql server+crystal reports.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on additional features of the Kanban Board/Calendar project. [Link to Project](https://github.com/hatchways/team-artistic-swimming)
+
+🌱 I’m currently learning Docker and testing a couple of APIs.
+
+
+## 💻 Tech Stack
+* Language: JavaScript/TypeScript
+* Front End: React Js, HTML, CSS, Material UI, Boostrap.
+* Back End: Express/Node.js/MongoDB, APIs and SQL databases.
+
+* Testing: Jest and Selenium.
+* DevOps tools and deploy: AWS, Netlify, Heroku, Hyper-V and VMWARE.
+
+
+📫 How to reach me: mailto:hapalacios@gmail.com
+:link: [Website](https://hectorpalacios.ca)
