@@ -6,7 +6,7 @@
     Computer Engineer and Full stack developer -  ⚡ Triathlete |
 </h3>
 
-😄 I am motivated software developer and computer engineer with 2 years of experience in full stack development, and  15+ years of experience in other roles as IT Manager, infrastructure project coordinator. Also, a developer in early 2005-2010 stacks like .net+sql server+crystal reports.
+😄 I am motivated software developer and computer engineer with 2 years of experience in full stack development, and  15+ years of experience in other roles as IT Manager, infrastructure project coordinator. Also, a developer in the early 2010s stacks like .net+sql server+crystal reports.
 
 🔭 I’m currently working on additional features of the Kanban Board/Calendar project. [Link to Project](https://github.com/hatchways/team-artistic-swimming)
 
