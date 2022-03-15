@@ -6,7 +6,7 @@
     Computer Engineer and Full stack developer -  ⚡ Triathlete |
 </h3>
 
-😄 I am motivated software developer and computer engineer with 2 years of experience in full stack development, and  15+ years of experience in other roles as IT Manager, infrastructure project coordinator. Also, a developer in the early 2010s stacks like .net+sql server+crystal reports.
+😄 I am a motivated software developer and computer engineer with 2 years of experience in full stack development, and  15+ years of experience in other roles as IT Manager, infrastructure project coordinator. Also, a developer in the early 2010s stacks like .net+sql server+crystal reports.
 
 
 ## 💻 Tech Stack
