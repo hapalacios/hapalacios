@@ -8,7 +8,7 @@
 
 😄 I am a motivated software developer and computer engineer with +3 years of experience in full stack development, and 17+ years of experience in other roles as IT Manager, infrastructure project coordinator. Also, a developer in the early 2010s stacks like .net+sql server+crystal reports.
 
-Side note, I enjoy a lot lead teams, and share a bit a help  onboard and train new engineers.
+Side note, I enjoy a lot leading teams, share a bit helping onboarding and training new engineers.
 
 
 ## 💻 Tech Stack
