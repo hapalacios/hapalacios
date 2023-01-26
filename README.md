@@ -6,7 +6,9 @@
     Dad - Computer Engineer and Full stack developer -  ⚡ Triathlete |
 </h3>
 
-😄 I am a motivated software developer and computer engineer with +2 years of experience in full stack development, and  16+ years of experience in other roles as IT Manager, infrastructure project coordinator. Also, a developer in the early 2010s stacks like .net+sql server+crystal reports.
+😄 I am a motivated software developer and computer engineer with +3 years of experience in full stack development, and 17+ years of experience in other roles as IT Manager, infrastructure project coordinator. Also, a developer in the early 2010s stacks like .net+sql server+crystal reports.
+
+Side note, I enjoy a lot lead teams, and share a bit a help  onboard and train new engineers.
 
 
 ## 💻 Tech Stack
@@ -14,7 +16,7 @@
 * Front End: React Js, HTML, CSS, Material UI, Bootstrap.
 * Back End: .Net C#, Express/Node.js/MongoDB, APIs and SQL databases.
 
-* Testing: Jest and Selenium.
+* Testing: Jest, C#, Selenium.
 * DevOps tools and deploy: AWS, IIS, Netlify, Heroku, Hyper-V and VMWARE.
 
 
