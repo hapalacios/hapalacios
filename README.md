@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    Dad - Computer Engineer and Full-Stack developer -  ⚡ Triathlete |
+    Dad - Computer Engineer and Full-Stack developer -  ⚡ Triathlete
 </h3>
 
 😄 I am a motivated software developer and computer engineer with +3 years of experience in full-stack development, and 17+ years of experience in other roles as IT Manager, infrastructure project coordinator. Also, a developer in the early 2010s stacks like .net+sql server+crystal reports.
