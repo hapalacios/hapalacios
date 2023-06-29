@@ -22,4 +22,5 @@ Side note, I enjoy a lot leading teams, and helping onboarding and training new 
 
 ### 📫 How to reach me: hapalacios@gmail.com
 ### :link: [Website](https://hectorpalacios.ca)
+### :link: [GitHub](https://github.com/hapalacios)
 ### 📍 Located: Toronto, CA 🇨🇦 
