@@ -13,11 +13,11 @@ Side note, I enjoy a lot leading teams, and helping onboarding and training new 
 
 ## 💻 Tech Stack
 * Languages: JavaScript/TypeScript, C#
-* Front-End: React Js, HTML, CSS, Material UI, Bootstrap. Familiar with Vue Js, among others.
-* Back-End: .Net C#, Express/Node.js, APIs and SQL databases.
+* Front-End: React Js, HTML, CSS, Material UI, Bootstrap. Familiar with Vue Js, among others
+* Back-End: .Net C#, Express/Node.js, APIs and SQL databases
 
-* Testing: Jest, C# .Net, Selenium.
-* DevOps tools and deploy: AWS, Azure, IIS, Netlify, Heroku, Hyper-V and VMWARE.
+* Testing: Jest, C# .Net, Selenium
+* DevOps tools and deploy: AWS, Azure, IIS, Netlify, Heroku, Hyper-V and VMWARE
 
 
 ### 📫 How to reach me: hapalacios@gmail.com
