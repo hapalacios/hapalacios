@@ -12,7 +12,7 @@ Side note, I enjoy a lot leading teams, and helping onboarding and training new 
 
 
 ## 💻 Tech Stack
-* Languages: JavaScript/TypeScript, C#
+* Languages: JavaScript/TypeScript, C#, Transact-SQL
 * Front-End: React Js, HTML, CSS, Material UI, Bootstrap. Familiar with Vue Js
 * Back-End: .Net C#, Express/Node.js, APIs and SQL databases
 
