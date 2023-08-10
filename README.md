@@ -1,9 +1,9 @@
 <h1 align="center">
-    Hello and welcome! I'm Hector 👋 
+    Hello and Welcome! I'm Hector 👋 
 </h1>
 
 <h3 align="center">
-    Dad - Computer Engineer and Full-Stack developer -  ⚡ Triathlete
+    Dad - Computer Engineer and Full-Stack Developer -  ⚡ Triathlete
 </h3>
 
 😄 I am a motivated Software Developer and Computer Engineer with +3 years of experience in full-stack development, and 18+ years of experience in other roles as IT Manager, infrastructure project coordinator, among others. Also, a developer in the early 2010s stacks like visual basic, .Net + Sql Server + Crystal reports, among others.
