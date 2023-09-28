@@ -17,7 +17,7 @@ I am also a team player, and I enjoy a lot leading teams, and helping onboarding
 * Back-End: .Net C#, Express/Node.js, APIs and SQL databases like Microsoft SQL Server or MySQL
 
 * Testing: Jest, C# .Net, Selenium
-* DevOps tools and deploy: AWS, Azure, IIS, Netlify, Heroku, Hyper-V and VMWARE
+* DevOps tool/deployment: AWS, Azure, IIS, Netlify, Heroku, Hyper-V and VMWARE
 
 
 ### 📫 How to reach me: hapalacios@gmail.com
