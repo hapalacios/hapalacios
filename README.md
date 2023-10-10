@@ -13,8 +13,8 @@ I am also a team player, and I enjoy a lot leading teams, and helping onboarding
 
 ## 💻 Tech Stack
 * Languages: JavaScript/TypeScript, C#, Transact-SQL
-* Front-End: React Js, HTML, CSS, Material UI, Bootstrap. Familiar with Vue Js
-* Back-End: .Net C#, Express/Node.js, APIs and SQL databases like Microsoft SQL Server or MySQL
+* Front-End: React Js, HTML, CSS/SCSS, Material UI, Bootstrap. Familiar with Vue Js
+* Back-End: .Net C#, Express/Node.js, APIs and SQL databases like Microsoft SQL Server/MySQL
 
 * Testing: Jest, C# .Net, Selenium
 * DevOps tool/deployment: AWS, Azure, IIS, Netlify, Heroku, Hyper-V and VMWARE
