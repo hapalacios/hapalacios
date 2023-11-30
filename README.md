@@ -1,26 +1,30 @@
 <h1 align="center">
-    Hello and Welcome! I'm Hector 👋 
+    Welcome to My Space! I'm Hector 👋
 </h1>
 
 <h3 align="center">
-    Dad - Computer Engineer and Full-Stack Developer -  ⚡ Triathlete
+    Proud Dad - Skilled Computer Engineer & Full-Stack Developer - ⚡ Enthusiastic Triathlete
 </h3>
 
-😄 I am a motivated Software Developer and Computer Engineer with +4 years of experience in full-stack development, and 18+ years of experience in other roles as IT Project Manager, infrastructure project coordinator, and other interesting roles. Also, a developer in the early 2010s stacks like visual basic, .Net, c++, c; databases like Sql Server and reporting tools like Crystal reports, among others
+😄 I'm a dynamic Software Developer and Computer Engineer, boasting over 4 years of experience in full-stack development and 18+ years in various IT roles, including IT Project Manager, Infrastructure Project Coordinator, among others. I've honed my skills in early 2010s technologies like Visual Basic, .Net, C++, C, along with databases such as SQL Server and reporting tools like Crystal Reports.
 
-I am also a team player, and I enjoy a lot leading teams, and helping onboarding and training new engineers
+As a committed team player, I excel in leading teams, mentoring new engineers, and driving project success. My expertise extends to training professionals in modern tech stacks, particularly React Js and C# .Net, empowering them to create robust, scalable applications.
 
-
-## 💻 Tech Stack
+## 💻 My Tech Toolbox
 * Languages: JavaScript/TypeScript, C#, Transact-SQL
-* Front-End: React Js, HTML, CSS/SCSS, Material UI, Bootstrap. Familiar with Vue Js
-* Back-End: .Net C#, Express/Node.js, APIs and SQL databases like Microsoft SQL Server/MySQL
+* Front-End Mastery: React Js, HTML, CSS/SCSS, Material UI, Bootstrap, with a familiarity in Vue Js
+* Back-End Expertise: .Net C#, Express/Node.js, APIs, SQL Databases (Microsoft SQL Server/MySQL)
 
-* Testing: Jest, C# .Net, Selenium
-* DevOps tool/deployment: AWS, Azure, IIS, Netlify, Heroku, Hyper-V and VMWARE
+* Proficient in Testing: Advanced proficiency in Jest for React JS unit testing, expertise in using xUnit and Moq for comprehensive C# .Net testing, and practical experience with Selenium for automated web testing. My focus on rigorous testing methodologies ensures robust and reliable software solutions
+
+* DevOps & Deployment Tools: AWS, Azure, IIS, Netlify, Heroku, Hyper-V, VMWARE
+
+🚀 **Advancing in Cutting-Edge Technology Training**: I am actively involved in the ongoing professional development and upskilling of engineers in my workplace, with a focus on modern technologies such as React Js, C# .Net, and integrating AI tools like ChatGPT and GitHub Copilot. My approach involves hands-on, project-based training that aligns with the latest industry trends and tools, ensuring our teams are well-equipped to navigate the ever-evolving tech landscape.
 
 
-### 📫 How to reach me: hapalacios@gmail.com
-### :link: [Website](https://hectorpalacios.ca)
-### :link: [GitHub](https://github.com/hapalacios)
-### 📍 Located: Toronto, CA 🇨🇦 
+### 📫 Connect with Me:
+- Email: hapalacios@gmail.com
+- [Website](https://hectorpalacios.ca)
+- [GitHub](https://github.com/hapalacios)
+
+### 📍 From Toronto, CA 🇨🇦 with Global Reach
